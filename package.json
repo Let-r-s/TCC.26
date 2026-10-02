@@ -1,0 +1,27 @@
+{
+  "name": "tcc.26",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Let-r-s/TCC.26.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Let-r-s/TCC.26/issues"
+  },
+  "homepage": "https://github.com/Let-r-s/TCC.26#readme",
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.0",
+    "drizzle-orm": "^1.0.0-rc.4"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^1.0.0-rc.4"
+  }
+}
