@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Let-r-s/TCC.26#readme",
   "dependencies": {
     "@neondatabase/serverless": "^1.2.0",
+    "dotenv": "^18.0.7",
     "drizzle-orm": "^1.0.0-rc.4"
   },
   "devDependencies": {

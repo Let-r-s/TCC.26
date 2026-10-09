@@ -1,8 +1,8 @@
 // schema.ts
-import { uuid } from "drizzle-orm/gel-core";
+import { uuid } from "drizzle-orm/pg-core";
 import { integer, pgTable, varchar } from "drizzle-orm/pg-core";
 
-export const users = pgTable('users', {
+export const habitos = pgTable('habitos', {
   id: uuid(),
   nome: varchar(255),
   descricao: varchar(255),
